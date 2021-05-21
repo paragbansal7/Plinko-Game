@@ -34,7 +34,7 @@ function setup() {
 
 console.log(divisions)
 
-  //Engine.run(engine);
+  Engine.run(engine);
 
 }
 
